@@ -1,7 +1,7 @@
 ![logo](https://github.com/dikshita-1905/dikshita19/blob/main/DIKSHITA%20PADTE.png)
 <h1 align="center">Hi 👋, I'm Dikshita Padte</h1>
 <h3 align="center">A passionate Data Science and Machine Learning enthusiast. I wish to pursue Data Science as my career and would wish to collaborate on various Data Science Projects.</h3>
- <img align="right" alt="coding" width="350" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
+ <img align="center" alt="coding" width="350" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshita-1905&label=Profile%20views&color=0e75b6&style=flat" alt="dikshita-1905" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dikshita-1905" alt="dikshita-1905" /></a> </p>
 <p align="left"> <a href="https://twitter.com/dikshtapadte19" target="blank"><img src="https://img.shields.io/twitter/follow/dikshtapadte19?logo=twitter&style=for-the-badge" alt="dikshtapadte19" /></a> </p>
